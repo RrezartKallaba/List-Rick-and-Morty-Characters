@@ -47,4 +47,4 @@ npm start
 - **🌍 Language Switcher:**  
   Switch between multiple languages using `i18next`.  
   ![Project Screenshot](img/scr4.png)
-
+---
