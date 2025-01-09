@@ -39,7 +39,7 @@ npm start
 
 - **🛠 Filtering:**  
   Filter characters by status (alive, dead, or unknown) and species.
-  ![Project Screenshot](img/scr4.png)
+  ![Project Screenshot](img/scr3.png)
 
 - **⚙️ Sorting:**  
   Sort characters by name or origin.
