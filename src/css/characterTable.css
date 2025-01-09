@@ -1,0 +1,38 @@
+.table th,
+.table td {
+    text-align: left;
+}
+
+.table th {
+    background-color: #ffffff !important;
+}
+
+.table-responsive,
+.table {
+    border-radius: 5px;
+}
+
+.table th:first-child {
+    border-radius: 5px 0 0 0;
+}
+
+.table th:last-child {
+    border-radius: 0 5px 0 0;
+}
+
+.table tr {
+    border-style: none;
+}
+
+.table th,
+.table td {
+    padding: 8px;
+}
+
+th {
+    background-color: #f8f9fa !important;
+}
+
+table {
+    --bs-table-bg: transparent !important;
+}
